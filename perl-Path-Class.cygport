@@ -1,0 +1,11 @@
+CPAN_AUTHOR=kwilliams
+inherit perl
+
+NAME="perl-Path-Class"
+VERSION=0.32
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl cross-platform path manipulation module"
+DESCRIPTION="Path::Class is a module for manipulation of file and directory
+specifications (strings describing their locations, like '/home/ken/foo.txt'
+or 'C:\Windows\Foo.txt') in a cross-platform manner."
